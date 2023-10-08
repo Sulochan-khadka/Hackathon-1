@@ -1,5 +1,3 @@
-Project Demo : https://scintillating-smakager-860376.netlify.app/  
+This is the readme file for our project:
 
-Project Video : https://www.youtube.com/watch?v=KkQATIXBY5w&ab_channel=GorkCoder
-
-![screencapture-scintillating-smakager-860376-netlify-app-2023-06-18-11_57_15](https://github.com/sunil9813/Education-Website-Using-ReactJS/assets/67497228/37450154-6e7a-45fd-9793-c731dcc56e2b)
+To see the working of the project, visit the youtube channel: https://youtu.be/Ps3IanaqKSg
